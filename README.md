@@ -1,4 +1,4 @@
-# favalbuumgenres
+# FavAlbumGenres
 <html> 
   <head> 
     <title>Mariah's Favs</title> 
